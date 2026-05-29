@@ -1,0 +1,6 @@
+Drug 1,Drug 2,Interaction Risk
+Warfarin,Aspirin,High bleeding risk
+Warfarin,Ibuprofen,High bleeding risk
+Metformin,Contrast Dye,Kidney monitoring recommended
+Lisinopril,Potassium,High potassium risk
+Atorvastatin,Clarithromycin,Muscle toxicity risk
